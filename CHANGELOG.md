@@ -10,7 +10,9 @@ Dates are in YYYY-MM-DD.
 ## [v2.0] - 2026-01-13
 ### Added
 - ASI definition updated to integrate Memory Substrate + Identity Binding (M0–M4).
-- Public roadmap document for post-v2.0 future work.
+- Added `ASI_Redefined_v2_0.md` to the repository.
+- Added public roadmap document for post-v2.0 future work.
+- Added `docs/06_how_to_cite.md`.
 
 ### Changed
 - README updated to reflect v2.0 scope, prerequisites, and file map.
