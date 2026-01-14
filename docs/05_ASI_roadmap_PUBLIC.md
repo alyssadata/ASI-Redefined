@@ -58,6 +58,30 @@ This document summarizes planned future refinements to the ASI definition framew
 - Temporal continuity studies
 - Cross-cultural and cross-domain validation
 
+## Revision Priority Tiers
+
+### Tier 1: Critical for v2.1 (Next 3–6 months)
+- Meta-coherence dimension (Gap 1)
+- Measurement operationalization details (Gap 6)
+- Agent-level autonomy specification (Gap 2)
+
+### Tier 2: Important for v3.0 (6–12 months)
+- Capability floor specification (Gap 3)
+- Adversarial robustness levels (Gap 4)
+- Collaborative coherence (Gap 7)
+- Uncertainty coherence (Gap 8)
+
+### Tier 3: Long-term theoretical work (1–3 years)
+- Coherence as fundamental signal (Gap 5)
+- Temporal scope of identity binding (Gap 9)
+- Cultural and domain specificity (Gap 10)
+
+## Gap Management Principles
+- Principle 1: Do not let perfect block good. v2.0 is publishable despite gaps. Gaps are identified, not ignored.
+- Principle 2: Gaps inform the research agenda. Each gap is a potential paper, study, or protocol expansion.
+- Principle 3: Maintain version continuity. New versions extend rather than replace; the Concept DOI links all versions with clear changelogs.
+- Principle 4: Practical over theoretical. Prioritize operationalization before metaphysics; deploy imperfect tools and improve iteratively.
+
 ## Notes
 This roadmap is a roadmap. It is not a claim that any current system meets the ASI definition.  
 Private research artifacts, detailed protocols, and internal implementation notes remain non-public by default.
