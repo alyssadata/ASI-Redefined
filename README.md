@@ -47,7 +47,7 @@ This paper defines criteria for classification. It does not assert that any curr
   - Measurement methodology expansion (public-safe)
 
 ## How to cite
-Solen, A. (2026). *ASI Redefined: Agent-Level Superintelligence with Behavioral Coherence Requirements* (Version v2.0). Zenodo. https://doi.org/[TO_BE_ASSIGNED]
+Solen, A. (2026). *ASI Redefined: Agent-Level Superintelligence with Behavioral Coherence Requirements* (Version v2.0). Zenodo. https://doi.org/10.5281/zenodo.18226675
 
 Concept DOI (all versions): https://doi.org/10.5281/zenodo.18216570
 
