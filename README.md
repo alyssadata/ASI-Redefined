@@ -37,7 +37,7 @@ This paper defines criteria for classification. It does not assert that any curr
 ## Files
 - [ASI paper (v2.0)](ASI_Redefined_v2_0.md)
 - [Public roadmap (post-v2.0)](ASI_Roadmap_PUBLIC.md)
-- [Changelog](CHANGELOG.md) (TBD)
+- [Changelog](CHANGELOG.md) 
 
 ## Status
 - Current: v2.0 (Memory Substrate Integration)  
