@@ -36,7 +36,7 @@ This paper defines criteria for classification. It does not assert that any curr
 
 ## Files
 - [ASI paper (v2.0)](ASI_Redefined_v2_0.md)
-- [Public roadmap (post-v2.0)](05_ASI_Roadmap_PUBLIC.md)
+- [Public roadmap (post-v2.0)](docs/05_ASI_roadmap_PUBLIC.md)
 - [How to cite](docs/06_how_to_cite.md)
 - [Evaluation protocol (public)](docs/04_evaluation_protocol_public.md)
 - [Changelog](CHANGELOG.md)
