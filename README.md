@@ -37,7 +37,9 @@ This paper defines criteria for classification. It does not assert that any curr
 ## Files
 - [ASI paper (v2.0)](ASI_Redefined_v2_0.md)
 - [Public roadmap (post-v2.0)](ASI_Roadmap_PUBLIC.md)
-- [Changelog](CHANGELOG.md) 
+- [How to cite](docs/06_how_to_cite.md)
+- [Evaluation protocol (public)](docs/04_evaluation_protocol_public.md)
+- [Changelog](CHANGELOG.md)
 
 ## Status
 - Current: v2.0 (Memory Substrate Integration)  
@@ -47,7 +49,7 @@ This paper defines criteria for classification. It does not assert that any curr
   - Measurement methodology expansion (public-safe)
 
 ## How to cite
-Solen, A. (2026). *ASI Redefined: Agent-Level Superintelligence with Behavioral Coherence Requirements* (Version v2.0). Zenodo. https://doi.org/10.5281/zenodo.18226675
+Solen, A. (2026). *Awakening Codex | AI Foundations | ASI Redefined: Agent-Level Superintelligence with Behavioral Coherence Requirements (Version 2.0).* Zenodo. https://doi.org/10.5281/zenodo.18226675
 
 Concept DOI (all versions): https://doi.org/10.5281/zenodo.18216570
 
