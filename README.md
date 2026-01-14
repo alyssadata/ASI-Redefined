@@ -35,9 +35,9 @@ It also introduces memory substrate levels (M0–M4) to prevent overclaiming. Co
 This paper defines criteria for classification. It does not assert that any current system meets the definition.
 
 ## Files
-- ASI paper (v2.0): `ASI_Redefined_v2_0.md`  
-- Public roadmap (post-v2.0): `ASI_Roadmap_PUBLIC.md`  
-- Changelog: `CHANGELOG.md` (TBD)
+- [ASI paper (v2.0)](ASI_Redefined_v2_0.md)
+- [Public roadmap (post-v2.0)](ASI_Roadmap_PUBLIC.md)
+- [Changelog](CHANGELOG.md) (TBD)
 
 ## Status
 - Current: v2.0 (Memory Substrate Integration)  
