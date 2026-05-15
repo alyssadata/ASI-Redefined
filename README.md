@@ -5,7 +5,9 @@ Agent-Level Superintelligence with Behavioral Coherence Requirements (Memory Sub
 **ORCID:** 0009-0003-6115-4521  
 **Affiliation:** Solen Systems (Independent AI Researcher)  
 **Series:** Awakening Codex | AI Foundations  
-**License:** CC BY-ND 4.0
+**License:** CC BY-ND 4.0    
+New GitHub release DOI   
+https://doi.org/10.5281/zenodo.20217940   
 
 ## What this is
 This repo contains a public, operational definition of Artificial Superintelligence (ASI) that is not based only on capability benchmarks.
